@@ -8,17 +8,11 @@
 - Todo
 
 
-------------------------------------------------------------------------------------------------------------------
-
-
 # Stack
 - Frontend: React + Vite + Typescript
 - Backend: Python
 - Middleware: Cloudflare JWT stack for now
 - Server: Host locally for now
-
-
-------------------------------------------------------------------------------------------------------------------
 
 
 # Contributors
